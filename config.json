@@ -1,0 +1,253 @@
+{
+    "ROOM_ID": "69cccff13fc5a8093ac428de",
+    "API_TOKEN": "29e47b74fcbda5bf5219c962762a314d9acb633c1c6b4f09d5c1e13d4d577d67",
+    "OWNERS": [
+        "harmanpreet_19",
+        "sambee5",
+        "ChaosOnx"
+    ],
+    "SAVED_POSITION": {
+        "x": 6.5,
+        "y": 0.0,
+        "z": 7.5,
+        "facing": "FrontRight"
+    },
+    "SUBSCRIBERS": [
+        "harmanpreet_19",
+        "ChaosOnx",
+        "sambee5",
+        "alluumeh",
+        "goatdaddy",
+        "livelycadaver",
+        "gummycat777",
+        "OgPiXeL._",
+        "brreane",
+        "Sarah2ooo",
+        "_inferno__"
+    ],
+    "VIPS": [
+        "Realtalk",
+        "Salty97",
+        "all_is_on",
+        "4hunnidd",
+        "surfed",
+        "gIockbaby",
+        "bigcheech"
+    ],
+    "TELEPORT_LOCATIONS": {
+        "roof": {
+            "pos": {
+                "x": 17.5,
+                "y": 7.0,
+                "z": 25.0,
+                "facing": "FrontRight"
+            },
+            "vip": false
+        },
+        "street": {
+            "pos": {
+                "x": 13.0,
+                "y": 0.0,
+                "z": 15.0,
+                "facing": "FrontLeft"
+            },
+            "vip": false
+        },
+        "hell": {
+            "pos": {
+                "x": 16.5,
+                "y": 0.0,
+                "z": 19.5,
+                "facing": "FrontRight"
+            },
+            "vip": false
+        },
+        "dj": {
+            "pos": {
+                "x": 15.5,
+                "y": 15.0,
+                "z": 2.0,
+                "facing": "FrontRight"
+            },
+            "vip": true
+        },
+        "club": {
+            "pos": {
+                "x": 13.5,
+                "y": 6.100000381469727,
+                "z": 5.5,
+                "facing": "FrontRight"
+            },
+            "vip": true
+        },
+        "ledge": {
+            "pos": {
+                "x": 16.5,
+                "y": 11.5,
+                "z": 7.5,
+                "facing": "BackLeft"
+            },
+            "vip": true
+        },
+        "corey": {
+            "pos": {
+                "x": 1.5,
+                "y": 18.75,
+                "z": 1.5,
+                "facing": "FrontRight"
+            },
+            "vip": true
+        },
+        "queenbee": {
+            "pos": {
+                "x": 17.5,
+                "y": 18.25,
+                "z": 0.5,
+                "facing": "FrontRight"
+            },
+            "vip": true
+        },
+        "ty": {
+            "pos": {
+                "x": 16.5,
+                "y": 17.25,
+                "z": 0.5,
+                "facing": "FrontLeft"
+            },
+            "vip": true
+        },
+        "kuntee": {
+            "pos": {
+                "x": 13.5,
+                "y": 17.75,
+                "z": 26.5,
+                "facing": "FrontRight"
+            },
+            "vip": true
+        },
+        "gummy": {
+            "pos": {
+                "x": 15.0,
+                "y": 0.10000000149011612,
+                "z": 23.0,
+                "facing": "FrontRight"
+            },
+            "vip": true
+        }
+    },
+    "MODERATORS": [
+        "GoatDaddy",
+        "GummyCat777",
+        "LivelyCadaver",
+        "ChaosOnx",
+        "AlluuMeh",
+        "lovely.Ashy",
+        "Owlieye",
+        "King_Dex",
+        "CoreyInTheCult",
+        "MadiTheBatty",
+        "Adam4411",
+        "Jayrock00",
+        "itsCL_",
+        "INDIAN_.BOT",
+        "H.Z.M"
+    ],
+    "ORIGINAL_OUTFIT": [
+        {
+            "id": "body-flesh",
+            "amount": 1
+        },
+        {
+            "id": "shirt-n_mayflowersudcskypass2023larkzeibluedaisyjacket",
+            "amount": 1
+        },
+        {
+            "id": "pants-n_items2021blackjoggers",
+            "amount": 1
+        },
+        {
+            "id": "nose-n_01",
+            "amount": 1
+        },
+        {
+            "id": "glasses-n_registrationavatars2023billieglasses",
+            "amount": 1
+        },
+        {
+            "id": "shoes-n_platformsneakerblack",
+            "amount": 1
+        },
+        {
+            "id": "mouth-n_aprilfoolsinvisible2020mouth",
+            "amount": 1
+        },
+        {
+            "id": "hair_front-n_malenew01",
+            "amount": 1
+        },
+        {
+            "id": "hair_back-n_malenew01",
+            "amount": 1
+        },
+        {
+            "id": "eye-n_basic2018zanyeyes",
+            "amount": 1
+        },
+        {
+            "id": "eyebrow-n_21",
+            "amount": 1
+        }
+    ],
+    "BOT_OUTFIT": [
+        {
+            "id": "body-flesh",
+            "amount": 1
+        },
+        {
+            "id": "freckle-n_basic2018freckle36",
+            "amount": 1
+        },
+        {
+            "id": "mouth-n_aprilfoolsinvisible2020mouth",
+            "amount": 1
+        },
+        {
+            "id": "hair_back-n_pococorewards2020magicalundercut",
+            "amount": 1
+        },
+        {
+            "id": "nose-n_01",
+            "amount": 1
+        },
+        {
+            "id": "hair_front-n_malenew15",
+            "amount": 1
+        },
+        {
+            "id": "bag-n_westerncountrymusic2021whitepatternedguitar",
+            "amount": 1
+        },
+        {
+            "id": "pants-n_westerncountrymusic2021patternedjeans",
+            "amount": 1
+        },
+        {
+            "id": "shoes-n_westerncountrymusic2021cowboypatternedboots",
+            "amount": 1
+        },
+        {
+            "id": "eye-n_basic2018zanyeyes",
+            "amount": 1
+        },
+        {
+            "id": "eyebrow-n_basic2018newbrows11",
+            "amount": 1
+        },
+        {
+            "id": "shirt-n_westerncountrymusic2021redfrilledshirt",
+            "amount": 1
+        }
+    ],
+    "AUTO_SYNCED_OWNERS": [],
+    "AUTO_SYNCED_MODS": []
+}
