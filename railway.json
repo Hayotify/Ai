@@ -6,5 +6,8 @@
   "deploy": {
     "startCommand": "python main.py",
     "restartPolicy": "ON_FAILURE"
+  },
+  "variables": {
+    "NIXPACKS_PYTHON_VERSION": "3.11"
   }
 }
